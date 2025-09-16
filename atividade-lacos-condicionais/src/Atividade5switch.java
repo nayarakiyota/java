@@ -56,7 +56,7 @@ public class Atividade5switch {
 		
 		System.out.println("Produto: " + produto);
 		System.out.printf("Valor total: R$ %.2f", total);
-				
+		
 		leia.close();
 
 	}

@@ -7,7 +7,7 @@ public class Atividade8switch {
 		Scanner leia = new Scanner(System.in);
 		
 		int codigo;
-		float saldo = 1000.00f , novoSaldo, operacao, valor;
+		float saldo = 1000.00f, valor;
 				
 		System.out.println("Digite o código da operação: ");
 		codigo = leia.nextInt();
