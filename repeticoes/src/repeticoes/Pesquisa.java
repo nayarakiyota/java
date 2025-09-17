@@ -48,10 +48,13 @@ public class Pesquisa {
 			somaIdades += idade;
 			
 			totalRespostas ++;
-						
-			System.out.println("Deseja continuar (S/N)");
+			
 			leia.skip("\\R");// ignora a outra linha
+						
+			do {
+			System.out.println("Deseja continuar (S/N)");
 			continua = leia.nextLine().toUpperCase();//converte para letra maiuscula
+			}while(!continua.equals("S") && !continua.equals("N"));
 			
 		}
 		
