@@ -44,7 +44,7 @@ Você encontrará conteúdos que abrangem desde os fundamentos da linguagem Java
 | Aula 05 | Arrays                 | [Abrir](https://github.com/nayarakiyota/java/tree/main/exercicios-vetores-matrizes) | Vetores e matrizes                                    |
 | Aula 06 | Collections (Parte 1)  | [Abrir](https://github.com/nayarakiyota/java/tree/main/exercicios-collections) | Trabalhando com `ArrayList` e `Set`                   |
 | Aula 07 | Collections (Parte 2)  | [Abrir](https://github.com/nayarakiyota/java/tree/main/exerciciosEstruturaDeDados) | Uso de `Queue` e `Stack`                              |
-| Aula 08 | Métodos                | [Abrir](https://github.com/rafaelq80/aulas_java_t82/tree/main/aula_08) | Criação de métodos com e sem retorno                  |
+| Aula 08 | Métodos                | [Abrir](https://github.com/nayarakiyota/java/tree/main/metodos) | Criação de métodos com e sem retorno                  |
 
 <br />
 
